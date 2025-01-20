@@ -1,4 +1,4 @@
- # Matrix.to
+  # Matrix.to
 
 Matrix.to is a simple url redirection service for the Matrix.org ecosystem
 which lets users share links to matrix entities without being tied to a
